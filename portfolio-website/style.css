@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+  
+}
+
+
+    
+
+.nav-link{
+    color: rgb(203, 238, 6);
+    font-weight: bold;
+    
+}
+.nav-item{
+    margin-left: 17vh;
+    font-size: 1rem;
+    font-family:sans-serif;
+   
+}
+.navbar-brand{
+    color: #e7a4ab;
+    font-weight:bold;
+    font-size:small;
+    font-size: 2.5em;
+    font-style: italic;
+}
+    .navbar-brand:hover{
+color: #bd1616;
+    }
+
+.nav-link:hover{
+    color: rgb(238, 66, 4);
+}
+.cpy {
+    
+    font-size: xx-small;
+   
+}
+    
+   
+
+
+
